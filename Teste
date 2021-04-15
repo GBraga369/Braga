@@ -16,6 +16,10 @@
    </tr>
    
    <tr>
+    <td>input type="password" name="senha" size="20" /></td>
+   </tr>
+   
+   <tr>
     <td><input type="submit" /></td>
    </tr>
    
